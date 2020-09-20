@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="good_solutions_group"><a href="http://goodsolutions.group/index.html">Good Solutions Group</a></string>
+    <string name="phone">+996773810784</string>
+    <string name="location">Фрунзе 475</string>
+    <string name="desc">Агентство профессиональных услуг “Good Solutions Group” предоставляет комплекс решений для бизнеса в сфере креатива, маркетинга, IT разработок, автоматизации компании, обучения персонала, исследований и продаж.</string>
+</resources>
